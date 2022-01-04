@@ -1,1 +1,2 @@
 # odin-landing-page
+Here we are. My second project. My task is to create a landing page, that supposed to be made by using flexbox. So I will need such properties as : display, flex, justify-content, align-items etc. to arrange flex-items inside flex-container as they placed inside my design image that was provided by TOP.
